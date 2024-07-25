@@ -1,4 +1,8 @@
 ## Hi there 👋
+Currently learning about low-level programming, CPU and digital circuitry design
+Sometimes contributes to the Cuberite repo.
+Game modder
+Favourite games: Minecraft, Factorio, Terraria, Horizon Zero Dawn, Horizon Forbidden West
 
 <!--
 **MightyFilipns/MightyFilipns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
