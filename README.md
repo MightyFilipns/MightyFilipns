@@ -1,11 +1,13 @@
 ## Hi there 👋
 Currently learning about low-level programming, CPU and digital circuitry design
 
-Sometimes contribute to the Cuberite repo.
+I sometimes contribute to the Cuberite repo
 
-Game modder
+I am interested in game modding.
 
-Favourite games: Minecraft, Factorio, Terraria, Horizon Zero Dawn, Horizon Forbidden West, GTA V, God of War
+Currently working on a RISC-V RV64GC cpu in SystemVerilog.
+
+Favourite video games: Minecraft, Factorio, Terraria, Horizon Zero Dawn, Horizon Forbidden West, GTA V, God of War
 
 [![MightyFilipns's GitHub stats](https://github-readme-stats-one-gamma-82.vercel.app/api?username=MightyFilipns)](https://github.com/anuraghazra/github-readme-stats)
 
